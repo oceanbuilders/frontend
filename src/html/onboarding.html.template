@@ -65,7 +65,7 @@
     <div class="content">
       <div class="header">
         <img src="/static/icons/favicon-192x192.png" height="52" width="52" alt="" />
-        Home Assistant
+        Pod Companion
       </div>
 
       <ha-onboarding></ha-onboarding>
