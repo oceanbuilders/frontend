@@ -33,7 +33,7 @@ class HaInitPage extends LitElement {
               ? html`<ha-circular-progress active></ha-circular-progress>`
               : ""}
           </div>
-          <div id="loading-text">Loading data Asad</div>
+          <div id="loading-text">Loading data</div>
         `;
   }
 
