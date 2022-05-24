@@ -1,0 +1,3 @@
+# PodCompanion Dashboard Requirements Specifications
+
+
