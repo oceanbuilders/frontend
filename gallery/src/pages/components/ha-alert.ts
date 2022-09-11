@@ -98,7 +98,8 @@ const alerts: {
     description: "Alert with slotted image",
     type: "warning",
     iconSlot: html`<span slot="icon" class="image"
-      ><img src="https://www.home-assistant.io/images/home-assistant-logo.svg"
+      ><img
+        src="https://oceanbuilders.com/wp-content/uploads/2021/01/ocean_builders_logo_default0.svg"
     /></span>`,
   },
   {

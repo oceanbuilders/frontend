@@ -72,9 +72,9 @@ const showMediaPlayer = () => {
     const style = document.createElement("style");
     style.innerHTML = `
     body {
-      --logo-image: url('https://www.home-assistant.io/images/home-assistant-logo.svg');
+      --logo-image: url('https://oceanbuilders.com/wp-content/uploads/2021/01/ocean_builders_logo_default0.svg');
       --logo-repeat: no-repeat;
-      --playback-logo-image: url('https://www.home-assistant.io/images/home-assistant-logo.svg');
+      --playback-logo-image: url('https://oceanbuilders.com/wp-content/uploads/2021/01/ocean_builders_logo_default0.svg');
       --theme-hue: 200;
       --progress-color: #03a9f4;
       --splash-image: url('https://home-assistant.io/images/cast/splash.png');
